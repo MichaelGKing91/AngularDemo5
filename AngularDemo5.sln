@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewCardDemo", "NewCardDemo\NewCardDemo.csproj", "{AE3BDCC2-8574-4707-B051-245CCEE872B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteDonuts", "FavoriteDonuts\FavoriteDonuts.csproj", "{205AB630-6200-4EE5-85A6-6B162A571B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE3BDCC2-8574-4707-B051-245CCEE872B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3BDCC2-8574-4707-B051-245CCEE872B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3BDCC2-8574-4707-B051-245CCEE872B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3BDCC2-8574-4707-B051-245CCEE872B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205AB630-6200-4EE5-85A6-6B162A571B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205AB630-6200-4EE5-85A6-6B162A571B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205AB630-6200-4EE5-85A6-6B162A571B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205AB630-6200-4EE5-85A6-6B162A571B37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D460F2C9-118F-412E-97E4-874216F35D5F}
+	EndGlobalSection
+EndGlobal
